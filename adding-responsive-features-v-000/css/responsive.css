@@ -1,0 +1,20 @@
+@media only screen and (ma-width: 1108px) {
+  .wrapper {
+    width: 90%;
+  }
+
+  #social {
+    position: absolute;
+    top: 82px;
+    right: 4%;
+    width: auto;
+  }
+  #social a {
+      display: inline-block;
+  }
+}
+@media only screen and (ma-width: 1108px) {
+  body {
+    font-size: 85%
+  }
+}
