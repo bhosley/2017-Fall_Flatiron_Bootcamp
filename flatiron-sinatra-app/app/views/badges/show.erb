@@ -1,0 +1,11 @@
+<h2><%=@badge.name%></h2>
+    <br>
+<%=@badge.display%>
+    <br>
+<p><%=@badge.description%></p>
+    <br><br>
+<label><a href="/authorities/<%=@badge.authority_id%>"><%=@authority.name%></a></label>
+    <br>
+<form method="POST" action="/badges/<%=@badge.id%>">
+    <button type="submit" value="submit">Collect!</button>
+</form>

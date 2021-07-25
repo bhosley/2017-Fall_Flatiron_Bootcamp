@@ -1,0 +1,8 @@
+<h1><%=@authority.name%></h1>
+    <br>
+<p><%=@authority.long_summary%></p>
+    <br>
+<h2>Badges issued by <%=@authority.name%>:</h2>
+    <%@authority.badges.each do |badge|%>
+        <li class="badgegallery"><%=badge.display%></li>
+    <%end%>

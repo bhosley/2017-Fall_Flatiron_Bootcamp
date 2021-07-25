@@ -1,0 +1,48 @@
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:43:39 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7326ms (Views: 7315.0ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:43:46 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.3ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:43:46 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:43:46 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:43:46 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.3ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:43:46 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:44:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 263ms (Views: 253.2ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:44:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:44:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:44:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:44:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/" for 127.0.0.1 at 2017-12-02 04:44:02 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)

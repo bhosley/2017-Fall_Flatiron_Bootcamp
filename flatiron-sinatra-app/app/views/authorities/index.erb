@@ -1,0 +1,8 @@
+<%@authorities.each do |authority|%>
+    <li>
+        <%=authority.name%>
+            <br>
+        <a href="/authorities/<%= authority.id %>"><%= authority.short_summary%></a>
+            <br>
+    </li>
+<%end%>
